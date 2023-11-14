@@ -13,3 +13,4 @@ Une commande est définie ainsi:
 - taxes
 - description
 - prix_vente
+- est_delivre
