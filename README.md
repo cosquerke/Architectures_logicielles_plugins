@@ -14,3 +14,6 @@ Une commande est définie ainsi:
 - description
 - prix_vente
 - est_delivre
+- pays_depart
+- pays_arrive
+- moyen_transport
