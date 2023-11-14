@@ -4,6 +4,7 @@ Application de gestion de commandes:
 
 Une commande est définie ainsi:
 - identifiant
+- type
 - date_commande
 - date_expedition
 - date_livraison
@@ -11,3 +12,4 @@ Une commande est définie ainsi:
 - cout_transport
 - taxes
 - description
+- prix_vente
